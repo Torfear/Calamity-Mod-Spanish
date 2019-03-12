@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Amidias' Blessing",
+    "Tip": "You are blessed by Amidias\nLets you breath underwater, even in the Abyss!\nJust don't get hit...",
+    "TypeName": "AmidiasBlessing",
+    "Namespace": "CalamityMod.Buffs.Amidias"
+  },
+  {
+    "Name": "Hermit Crab",
+    "Tip": "The hermit crab will protect you",
+    "TypeName": "HermitCrab",
+    "Namespace": "CalamityMod.Buffs.Amidias"
+  },
+  {
+    "Name": "Clammed",
+    "Tip": "Clam clap",
+    "TypeName": "SnapClamDebuff",
+    "Namespace": "CalamityMod.Buffs.Amidias"
+  }
+]
